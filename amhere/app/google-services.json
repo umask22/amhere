@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736058123199",
+    "firebase_url": "https://amhere-5f98a.firebaseio.com",
+    "project_id": "amhere-5f98a",
+    "storage_bucket": "amhere-5f98a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736058123199:android:9d4c10be12519327",
+        "android_client_info": {
+          "package_name": "amhere.umask.com.amhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736058123199-0jcm61pnguu48nf1rc678rri8a5pmg73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amhere.umask.com.amhere",
+            "certificate_hash": "1c1436a6cf2a1aa126bb539bdb7010e643b4c8e8"
+          }
+        },
+        {
+          "client_id": "736058123199-rm233qs2lkdhd1gfj2oisk6qt9m88h16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATy2cf6XLzAxbp1tJ_FcCOyaYPqAq6wPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736058123199-rm233qs2lkdhd1gfj2oisk6qt9m88h16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
